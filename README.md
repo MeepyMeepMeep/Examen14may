@@ -19,7 +19,7 @@ Ut vulputate ante egestas sem mollis, at pretium augue dignissim. Pellentesque m
 
 Proin ut *est tempor*, interdum lectus quis, suscipit nisl. Aliquam erat volutpat. Proin pellentesque eros at egestas aliquam. Nam porta pulvinar turpis, in egestas ligula convallis in. Quisque quis aliquam ex, non **ullamcorper tellus**. Aenean lacus felis, eleifend et rutrum vitae, commodo at ante. Donec blandit dictum ligula et mollis. Suspendisse placerat lorem sit amet eros fermentum bibendum. Cras id quam lorem. Suspendisse ultrices velit sed erat elementum aliquam. 
 
-> [!IMPOTANT]
+> [!IMPORTANT]
 > Aún se están añadiendo funcionalidades las cuales se seguirán desde aquí:
 - [x] Funcionalidad 1
 - [x] Funcionalidad 2
