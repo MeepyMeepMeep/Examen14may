@@ -12,7 +12,7 @@ Nuestro proyecto trata de lorem ipsum dolor sit amet, consectetur adipiscing eli
 
 Ut vulputate ante egestas sem mollis, at pretium augue dignissim. Pellentesque massa dui, tempus non dictum eu, pulvinar non leo. Pellentesque et maximus sapien. Aliquam feugiat mollis nisl, quis pharetra purus blandit sit amet. Quisque a nisl dolor. Proin viverra posuere volutpat. Quisque vulputate interdum risus. Etiam elit purus, auctor nec erat nec, pretium maximus ipsum. Aenean at quam vitae neque mattis fermentum ut ut lacus. 
 
-> [!INFO]
+> [!NOTE]
 > Cras eget neque convallis, blandit odio id, bibendum urna. Maecenas placerat ut felis et sodales. Fusce sagittis faucibus dignissim. **Más información [aquí](https://github.com/)**. 
 
 ## Sección 2
